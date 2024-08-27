@@ -1,2 +1,2 @@
 # Regressao-Linear-Multipla-IMC
-Calculo de Regressão Linear Múltipla para explicar o IMC, escolhendo as variáveis que compõem a RLM objetivando o melhor r2.  Feita a regresao, explicando o motivo da escolha das variáveis explicativas.  Explicando também a performance da Regressão.
+Cálculo de Regressão Linear Múltipla para modelar o IMC, com seleção criteriosa das variáveis explicativas para otimizar o valor de R². Após a realização da regressão, justifica-se a escolha das variáveis com base na sua relevância estatística e impacto no modelo. A análise também inclui uma avaliação detalhada da performance da regressão, destacando a qualidade do ajuste e a capacidade do modelo de explicar as variações do IMC.
